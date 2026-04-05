@@ -1,1 +1,2 @@
-
+ERROR in fetch_products: ConnectionError - No connection could be made
+ERROR in lookup_product: HTTPError - 404 Not Found for product ID 999
